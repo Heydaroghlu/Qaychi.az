@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AEe2V1w/RPX6cX8fhMqchZI0ZSbE4tD07c4EL/EQMKQk/zi9I12DILenRxP/S2bTNyIyascun/Gw5MqJYCO64Q==",
+  "dgSpecHash": "PpUFYsqSttlrIti4bJpiWPkwOGGK7Ux885P0XA1LZLdkkCcReYWgnlpyHLIgcgUj6/MmoVLFvylqUbLl7cBN2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Persistence\\App.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Persistence\\App.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Isa\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Isa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

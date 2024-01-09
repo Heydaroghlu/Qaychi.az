@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Qaychi.az\\Qaychi.az.csproj": {}
+    "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\Qaychi.az\\Qaychi.az.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Application\\App.Application.csproj": {
+    "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Application\\App.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Application\\App.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Application\\App.Application.csproj",
         "projectName": "App.Application",
-        "projectPath": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Application\\App.Application.csproj",
+        "projectPath": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Application\\App.Application.csproj",
         "packagesPath": "C:\\Users\\Isa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Application\\obj\\",
+        "outputPath": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Isa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Domain\\App.Domain.csproj": {
-                "projectPath": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Domain\\App.Domain.csproj"
+              "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Domain\\App.Domain.csproj": {
+                "projectPath": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Domain\\App.Domain.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Domain\\App.Domain.csproj": {
+    "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Domain\\App.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Domain\\App.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Domain\\App.Domain.csproj",
         "projectName": "App.Domain",
-        "projectPath": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Domain\\App.Domain.csproj",
+        "projectPath": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Domain\\App.Domain.csproj",
         "packagesPath": "C:\\Users\\Isa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Isa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -130,14 +130,14 @@
         }
       }
     },
-    "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Infrastructure\\App.Infrastructure.csproj": {
+    "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Infrastructure\\App.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Infrastructure\\App.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Infrastructure\\App.Infrastructure.csproj",
         "projectName": "App.Infrastructure",
-        "projectPath": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Infrastructure\\App.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Infrastructure\\App.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Isa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Isa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -154,8 +154,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Application\\App.Application.csproj": {
-                "projectPath": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Application\\App.Application.csproj"
+              "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Application\\App.Application.csproj": {
+                "projectPath": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Application\\App.Application.csproj"
               }
             }
           }
@@ -203,14 +203,14 @@
         }
       }
     },
-    "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Persistence\\App.Persistence.csproj": {
+    "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Persistence\\App.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Persistence\\App.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Persistence\\App.Persistence.csproj",
         "projectName": "App.Persistence",
-        "projectPath": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Persistence\\App.Persistence.csproj",
+        "projectPath": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Persistence\\App.Persistence.csproj",
         "packagesPath": "C:\\Users\\Isa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Isa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -227,8 +227,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Application\\App.Application.csproj": {
-                "projectPath": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Application\\App.Application.csproj"
+              "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Application\\App.Application.csproj": {
+                "projectPath": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Application\\App.Application.csproj"
               }
             }
           }
@@ -282,14 +282,14 @@
         }
       }
     },
-    "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Qaychi.az\\Qaychi.az.csproj": {
+    "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\Qaychi.az\\Qaychi.az.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Qaychi.az\\Qaychi.az.csproj",
+        "projectUniqueName": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\Qaychi.az\\Qaychi.az.csproj",
         "projectName": "Qaychi.az",
-        "projectPath": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Qaychi.az\\Qaychi.az.csproj",
+        "projectPath": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\Qaychi.az\\Qaychi.az.csproj",
         "packagesPath": "C:\\Users\\Isa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Qaychi.az\\obj\\",
+        "outputPath": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\Qaychi.az\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Isa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -306,11 +306,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Infrastructure\\App.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Infrastructure\\App.Infrastructure.csproj"
+              "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Infrastructure\\App.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Infrastructure\\App.Infrastructure.csproj"
               },
-              "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Persistence\\App.Persistence.csproj": {
-                "projectPath": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Persistence\\App.Persistence.csproj"
+              "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Persistence\\App.Persistence.csproj": {
+                "projectPath": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Persistence\\App.Persistence.csproj"
               }
             }
           }

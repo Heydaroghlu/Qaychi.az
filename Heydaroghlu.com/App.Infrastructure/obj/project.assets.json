@@ -1608,11 +1608,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Infrastructure\\App.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Infrastructure\\App.Infrastructure.csproj",
       "projectName": "App.Infrastructure",
-      "projectPath": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Infrastructure\\App.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Infrastructure\\App.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Isa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Isa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1629,8 +1629,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Application\\App.Application.csproj": {
-              "projectPath": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Application\\App.Application.csproj"
+            "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Application\\App.Application.csproj": {
+              "projectPath": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Application\\App.Application.csproj"
             }
           }
         }

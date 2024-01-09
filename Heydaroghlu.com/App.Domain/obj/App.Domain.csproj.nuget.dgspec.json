@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Domain\\App.Domain.csproj": {}
+    "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Domain\\App.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Domain\\App.Domain.csproj": {
+    "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Domain\\App.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Domain\\App.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Domain\\App.Domain.csproj",
         "projectName": "App.Domain",
-        "projectPath": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Domain\\App.Domain.csproj",
+        "projectPath": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Domain\\App.Domain.csproj",
         "packagesPath": "C:\\Users\\Isa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Isa\\AppData\\Roaming\\NuGet\\NuGet.Config",

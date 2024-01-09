@@ -2808,11 +2808,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Qaychi.az\\Qaychi.az.csproj",
+      "projectUniqueName": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\Qaychi.az\\Qaychi.az.csproj",
       "projectName": "Qaychi.az",
-      "projectPath": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Qaychi.az\\Qaychi.az.csproj",
+      "projectPath": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\Qaychi.az\\Qaychi.az.csproj",
       "packagesPath": "C:\\Users\\Isa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Qaychi.az\\obj\\",
+      "outputPath": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\Qaychi.az\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Isa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2829,11 +2829,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Infrastructure\\App.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Infrastructure\\App.Infrastructure.csproj"
+            "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Infrastructure\\App.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Infrastructure\\App.Infrastructure.csproj"
             },
-            "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Persistence\\App.Persistence.csproj": {
-              "projectPath": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\App.Persistence\\App.Persistence.csproj"
+            "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Persistence\\App.Persistence.csproj": {
+              "projectPath": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\App.Persistence\\App.Persistence.csproj"
             }
           }
         }

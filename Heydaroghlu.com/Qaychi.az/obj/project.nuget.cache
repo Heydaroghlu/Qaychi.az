@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S1BkYSBccb2o9AMiyWaOfStIDKzSjxR0wnzLACAWAr4Wt+sJp8hNipbijX1tKCweVhjQp3C9tBTlDLX0Y0X1pg==",
+  "dgSpecHash": "LyyLlGML+Auih1olJ7zriCfis1KcXqwx2KbjfMICBAa9yGMfESS7sVGXn04eMSDnTAW5kfJjPmYHS0FC8Z0N9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Isa\\Desktop\\Heydaroghlu.com\\Qaychi.az\\Qaychi.az.csproj",
+  "projectFilePath": "C:\\Users\\Isa\\Desktop\\123456\\Qaychi.az\\Heydaroghlu.com\\Qaychi.az\\Qaychi.az.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Isa\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Isa\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
